@@ -1,0 +1,15 @@
+caffe-fast-rcnn/*
+data/cache/*
+data/faster_rcnn_models/*
+data/imagenet_models/*
+data/KITTIVOC/*
+data/devkit2007*
+experiments/logs*
+
+*.pyc
+.ipynb_checkpoints
+lib/build
+lib/pycocotools/_mask.c
+lib/pycocotools/_mask.so
+
+.idea/*
